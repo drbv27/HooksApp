@@ -22,7 +22,7 @@ export const Memorize = () => {
           setShow(!show);
         }}
       >
-        Show/Hide {JSON.stringify(show)}
+        Mostrar/Ocultar {JSON.stringify(show)}
       </button>
     </>
   );
